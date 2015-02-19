@@ -1,0 +1,10 @@
+#ten_of_diamonds {
+	position: absolute;
+	z-index: 1;
+}
+#jack_of_diamonds {
+	position: relative;
+	z-index: 2;
+	background-color:red;
+	width:100%;
+}

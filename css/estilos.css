@@ -1,0 +1,231 @@
+html,body{
+	width:100%;
+	height:100%;
+	padding:0;
+	margin:0;
+	border:none;
+}
+
+
+
+a:link   
+{   
+ text-decoration:none;   
+}
+
+.que{
+	margin-top:10px;
+	margin-bottom:10px;
+	font-weight:bold;
+	text-align:center;
+	font-size:18px;
+	color:#f72c6b;
+	text-shadow:0px 0px 20px rgba(255,255,255,1),
+	0px 0px 20px rgba(255,255,255,1),
+	0px 0px 20px rgba(255,255,255,1),
+	0px 0px 20px rgba(255,255,255,1);
+}
+.atras{
+	margin-top:10px;
+	margin-bottom:10px;
+	font-weight:bold;
+	text-align:center;
+	font-size:18px;
+}
+.donde{
+	margin-top:10px;
+	margin-bottom:10px;
+	font-weight:bold;
+	text-align:center;
+	font-size:18px;
+}
+	
+.categoria{
+	padding: 2px 10px;background: rgba(255,255,255,.6);
+}
+
+.categoria
+.navbar{
+ -webkit-transition: background  .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background  .5s ease-in-out,padding .5s ease-in-out;
+        transition: background  .5s ease-in-out,padding .5s ease-in-out;
+}
+ .top-nav-collapse  {
+		background:#fff;
+		
+		opacity:0.8;
+			/*background:url('../img/bannerfondo.jpg') no-repeat;*/
+			border-bottom:1px solid #f68c9a;
+			background-size:100%;
+			padding:0 30px;
+    }
+   
+   
+.margenes{
+	margin-bottom:10px;
+}
+
+.fondobanner .background{
+	opacity:0.6;
+
+}
+.transparente {
+background-color: rgb(0,0,255);
+opacity: 0.5;
+background-color: white;
+}
+.provincia2{
+color:#8e99b1;font-family: 'Trebuchet MS';font-size: 10px;
+}
+.eslogan{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+font-size: 12px;
+}
+.poblacion2{
+color:#8e99b1;font-family: 'Trebuchet MS';font-size: 10px;
+}
+.categoria2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+font-size: 12px;
+font-stretch: normal;
+font-style: normal;
+font-variant: normal;
+font-weight: bold;
+}
+.noborde{
+	border:0;
+}
+.medidas-maps{
+	width:100%;
+	height:25%;
+}
+.design1{
+	background: #f68c9a;
+	color: #FFF;
+	text-align:center;
+	margin:0;
+	padding:10px;
+}
+.design1 a{
+	color:white;
+}
+.ancho{
+	width:100%;
+}
+
+
+.enviar{
+	color:white;
+	background-color:#f72c6b;
+	border:none;
+}
+.categoria{
+	/*text-align: left;
+	color: #fff;
+	background-color: #737373;
+	border-bottom: 1px solid #f68c9a;
+	font-size: 12px;
+	/*border-radius: 5px 5px 0px 0px;*/
+}
+.enlace{
+	color:#f68c9a;
+	cursor: auto;
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+
+}
+.fondo{
+	background-color:#f1ece6;
+}
+.footer{
+	color:white;
+	background-color:#1663b5;
+	text-align:center;
+}
+.altura{
+	height:75px;
+}
+
+.nomargen{
+	margin:0;
+}
+.nopadding{
+	padding:0;
+}
+.enlacefooter{
+	color:white;
+	text-decoration:none;
+}
+.enlacefooter:hover{
+	color:white;
+	text-decoration:none;
+}
+
+.cabecera {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.negrita{
+	font-weight:bold;
+}
+.sobresale{
+	word-wrap: break-word;
+}
+.sobreponer{
+	position: relative;
+	z-index:9px;
+	
+}
+.relativa{
+	position:relative;
+}
+.centrar{
+	margin-left:auto;margin-right:auto;
+}
+.centrar-contenido{
+	position:relative;margin:0 auto;
+}
+.centrar-texto{
+	text-align:center;
+}
+
+.poblacio{
+/*color:#ccc;*/
+	color:black;
+}
+.provincia{
+/*color:#ccc;*/
+	color:black;
+}
+/**Superponer**/
+.post-content {
+    bottom:0;
+    left:0;
+    position: absolute;
+}
+
+.thumbnail{
+    position:relative;
+
+}
+
+.titulo{
+	color:#cc0033;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;font-weight:bold;font-size:15px;
+}
+
+.prueba {
+    display: table;
+	
+	}
+
+.prueba {
+    display: table;
+}
+

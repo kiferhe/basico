@@ -1,0 +1,93 @@
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15
+{
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+ .ratio{
+    position:relative;
+    width: 100%;
+	padding-bottom: 80% ; /* % of width, defines aspect ratio*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;  
+}
+.center {
+position: relative;
+height:100%;
+width: 100%;
+
+}
+.col-xs-15
+{
+    width: 100%;
+    float: left;
+}
+
+@media (max-width: 768px)
+{
+.margen{
+margin:1%;
+}
+.padd{
+padding:1%;
+}
+
+.fondos {
+    display: table;
+	
+	background:url('http://www.solobodas.net/img/anuncios/267/eusebiescarpenterf.jpg')  ;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+    .col-xs-15
+    {
+		
+        width: 98%;
+        float: left;
+    }
+}
+@media (min-width: 768px)
+{
+.fondobanner{
+	background:url('../img/bannerfondo.jpg')  no-repeat;
+	background-size:100%;
+	background-position:center;
+	
+}
+    .col-sm-15
+    {
+        width: 20%;
+        float: left;
+    }
+}
+ 
+@media (min-width: 992px)
+{
+
+     .col-md-15
+     {
+        width: 20%;
+        float: left;
+    }
+}
+ 
+@media (min-width: 1200px)
+{
+    .col-lg-15
+    {
+        width: 20%;
+        float: left;
+    }
+}
+
+
+
+
